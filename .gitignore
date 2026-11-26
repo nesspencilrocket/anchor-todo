@@ -1,0 +1,13 @@
+/target/
+/AnchorTodo.exe
+*.pdb
+
+/todo.md
+/done.md
+/AnchorTodo.hotkey
+/AnchorTodo.theme
+/AnchorTodo.layer
+/.todo.md.*.tmp
+/.AnchorTodo.hotkey.*.tmp
+/.AnchorTodo.theme.*.tmp
+/.AnchorTodo.layer.*.tmp
